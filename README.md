@@ -1,6 +1,6 @@
 # anythingllm-alternative-comparison
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. This repository holds the developer-facing version of the "AnythingLLM alternative" question: a license, hosting, model, isolation and price comparison of Kortix against AnythingLLM and Open WebUI, built from each project's own site and repository, with every competitor fact linked to its source.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. This repository holds the developer-facing version of the "AnythingLLM alternative" question: a license, hosting, model, isolation and price comparison of Kortix against AnythingLLM and Open WebUI, built from each project's own site and repository, with every competitor fact linked to its source.
 
 All facts below were checked October 2026. There are no benchmarks and no usage rankings in this repo, so nothing can go stale in a way you cannot see: each claim sits next to the page it comes from.
 
@@ -9,7 +9,7 @@ All facts below were checked October 2026. There are no benchmarks and no usage 
 | | Kortix | AnythingLLM | Open WebUI |
 | --- | --- | --- | --- |
 | Open source | Yes | Yes, MIT | Yes, Open WebUI License |
-| What it is | Open-source AI Operating System: agents, skills, memory, connectors in one repo | All-in-one AI app for local document chat and agents | Self-hosted AI interface for local and cloud models |
+| What it is | Open-source CompanyOS: agents, skills, memory, connectors in one repo | All-in-one AI app for local document chat and agents | Self-hosted AI interface for local and cloud models |
 | Where it runs | Kortix Cloud, your VPC, or on-prem; self-host free | Desktop app (Mac, Windows, Linux) or a Docker server | Self-hosted via pip, Docker, or Kubernetes; desktop app |
 | Models | Any provider, your keys; set per agent, session or message | Local runtimes (Ollama, LM Studio, LocalAI) and cloud providers | Ollama plus any OpenAI-compatible API |
 | Agent isolation | One isolated sandbox on its own branch per session | Agents run inside the app instance | Chat-first; isolated terminals in the enterprise edition |
