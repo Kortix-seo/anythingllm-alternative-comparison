@@ -41,6 +41,6 @@ If the Kortix case describes you, read the docs in this order:
 
 ## Get Kortix
 
-The code is public: [Kortix on GitHub](https://github.com/kortix-ai/suna). Open source means you can read it, fork it and audit it, and self-hosting is free.
+The code is public: [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Open source means you can read it, fork it and audit it, and self-hosting is free.
 
 [Try Kortix](https://kortix.com) in the managed cloud, or run it on your own hardware: your data, your models, your infrastructure.
